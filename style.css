@@ -1,0 +1,47 @@
+h1 {
+    text-align: center;
+    border: black solid 5px;
+    font-size: 3em;
+    font-weight: bold;
+    
+}
+
+p {
+    text-align: justify;
+    font-size: 1.5em;
+}
+
+p.uno {
+    border-left: red 22px double;
+    border-top: red 22px double;
+}
+
+p.dos {
+    border-color: blue green;
+    border-width: 5px 10px 20px 40px;
+    border-style: dashed;
+}
+
+p.tres {
+    border-color: yellow;
+    border-width: 40px 10px;
+    border-style: double;
+}
+
+p.cuatro {
+    border-color: greenyellow white blue;
+    border-width: 20px;
+    border-style: solid none ;
+}
+
+p.cinco {
+    border-color: red black black;
+    border-width: 35px;
+    border-style: dashed solid dotted;
+}
+
+p.seis {
+    border-color: black black black red;
+    border-width: 10px 40px 20px;
+    border-style: dotted solid dashed double;
+}
